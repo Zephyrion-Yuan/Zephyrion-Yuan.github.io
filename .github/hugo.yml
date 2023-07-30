@@ -1,4 +1,4 @@
-name: Generate Site
+name: Deploy Hugo site to Pages
 on:
   push:
     branches:
@@ -22,7 +22,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: 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 # 另外还支持 github_token 和 personal_token
+          personal_token: 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 # 另外还支持 github_token 和 personal_token
           external_repository: Zephyrion-Yuan/Zephyrion-Yuan.github.io` # 修改为你的 GitHub Pages 仓库
           publish_dir: ./public
           keep_files: false
