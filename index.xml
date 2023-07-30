@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Zephyrion Yuan&#39;s Homepage</title>
+        <link>https://Zephyrion-Yuan.github.io/</link>
+        <description>Explore Chaos &amp; Trigger Sparks</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>haozheist@outlook.com (Zephyrion Yuan)</managingEditor>
+            <webMaster>haozheist@outlook.com (Zephyrion Yuan)</webMaster><lastBuildDate>Sun, 30 Jul 2023 22:59:18 &#43;0800</lastBuildDate>
+            <atom:link href="https://Zephyrion-Yuan.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First</title>
+    <link>https://Zephyrion-Yuan.github.io/posts/first/</link>
+    <pubDate>Sun, 30 Jul 2023 22:59:18 &#43;0800</pubDate>
+    <author>Zephyrion Yuan</author>
+    <guid>https://Zephyrion-Yuan.github.io/posts/first/</guid>
+    <description><![CDATA[This is the first page in post for test.]]></description>
+</item>
+</channel>
+</rss>
