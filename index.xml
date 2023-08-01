@@ -4,17 +4,9 @@
         <link>https://Zephyrion-Yuan.github.io/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>haozheist@outlook.com (Zephyrion Yuan)</managingEditor>
-            <webMaster>haozheist@outlook.com (Zephyrion Yuan)</webMaster><lastBuildDate>Tue, 01 Aug 2023 14:54:42 &#43;0800</lastBuildDate>
+            <webMaster>haozheist@outlook.com (Zephyrion Yuan)</webMaster><lastBuildDate>Tue, 01 Aug 2023 00:02:00 &#43;0800</lastBuildDate>
             <atom:link href="https://Zephyrion-Yuan.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Third</title>
-    <link>https://Zephyrion-Yuan.github.io/posts/third/</link>
-    <pubDate>Tue, 01 Aug 2023 14:54:42 &#43;0800</pubDate>
-    <author>Zephyrion Yuan</author>
-    <guid>https://Zephyrion-Yuan.github.io/posts/third/</guid>
-    <description><![CDATA[This is the final test of blog upload test.]]></description>
-</item>
-<item>
     <title>Second</title>
     <link>https://Zephyrion-Yuan.github.io/posts/second/</link>
     <pubDate>Tue, 01 Aug 2023 00:02:00 &#43;0800</pubDate>
