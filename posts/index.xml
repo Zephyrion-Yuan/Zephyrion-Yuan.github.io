@@ -4,7 +4,23 @@
         <link>https://Zephyrion-Yuan.github.io/posts/</link>
         <description>All Posts | Zephyrion Yuan&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>haozheist@outlook.com (Zephyrion Yuan)</managingEditor>
-            <webMaster>haozheist@outlook.com (Zephyrion Yuan)</webMaster><lastBuildDate>Sun, 30 Jul 2023 22:59:18 &#43;0800</lastBuildDate><atom:link href="https://Zephyrion-Yuan.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>haozheist@outlook.com (Zephyrion Yuan)</webMaster><lastBuildDate>Tue, 01 Aug 2023 11:45:31 &#43;0800</lastBuildDate><atom:link href="https://Zephyrion-Yuan.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Third</title>
+    <link>https://Zephyrion-Yuan.github.io/posts/third/</link>
+    <pubDate>Tue, 01 Aug 2023 11:45:31 &#43;0800</pubDate>
+    <author>Zephyrion Yuan</author>
+    <guid>https://Zephyrion-Yuan.github.io/posts/third/</guid>
+    <description><![CDATA[Try again.]]></description>
+</item>
+<item>
+    <title>Second</title>
+    <link>https://Zephyrion-Yuan.github.io/posts/second/</link>
+    <pubDate>Tue, 01 Aug 2023 00:02:00 &#43;0800</pubDate>
+    <author>Zephyrion Yuan</author>
+    <guid>https://Zephyrion-Yuan.github.io/posts/second/</guid>
+    <description><![CDATA[Try the hugo w/ workflow actions I feel free to get the little space in www.]]></description>
+</item>
+<item>
     <title>First</title>
     <link>https://Zephyrion-Yuan.github.io/posts/first/</link>
     <pubDate>Sun, 30 Jul 2023 22:59:18 &#43;0800</pubDate>
